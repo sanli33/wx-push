@@ -4,7 +4,7 @@ module.exports = {
   template_id: "7Qk998N0gfv5zV_FTzjD-rLV4XwGVagYjEzkfskYiRc",
   touser: "oonWJ5slWuS2OrJdgCLM3GmNdxVk",
 
-  key: "201c93c2e2b34bdeecdbf9f5265eb84e",
+  key: "c6ee9a052b026e386e2b3568ef6f6d82",
   city: "郑州",
   first_date: "2023-10-21",
 };
